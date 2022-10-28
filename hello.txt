@@ -1,4 +1,2 @@
-Hello de Bastia
 Hello LH
-Hello from Ajaccio 
-Hello World
+
